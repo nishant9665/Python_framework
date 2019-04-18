@@ -1,0 +1,25 @@
+{
+	"credentials": [{
+		"valid_data": {
+			"uname": "PythonTest",
+			"pwd": "Test@123",
+          "title":"jenkin_python",
+          "completion":"20",
+          "type":"Event",
+          "priority":"Low",
+          "prospect":"jenkin study",
+          "lookup":"jenkin for build",
+          "contact":"125896345",
+          "description":"python-automation Jenkin"
+
+		},
+		"uname_valid": {
+			"uname": "cccc",
+			"pwd": "ddddd"
+		},
+		"pwd_valid": {
+			"uname": "eeee",
+			"pwd": "fffff"
+		}
+	}]
+}
